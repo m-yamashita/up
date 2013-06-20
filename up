@@ -1,0 +1,2 @@
+#!/bin/sh
+function up(){ cpath=./; for i in `seq 1 1 $1`; do cpath=$cpath../; done; cd $cpath;}
