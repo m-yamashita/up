@@ -12,7 +12,7 @@ The "up" command is very simple way of to go up any level directory structure.
 
 ### English
 1. This code copy to your "~/.bashrc".
-2. Run to the "source ~/.bashrc" command at your shell.
+2. Run "source ~/.bashrc" command at your shell.
 
 ### Japanese
 1. "up"ファイル内のコードを "~/.bashrc" 内にコピーしてください。
@@ -21,9 +21,9 @@ The "up" command is very simple way of to go up any level directory structure.
 ## Usage
 
 ### English
-1. Run "up" is to go up 1 level directory structure.
+1. "up" command in case of no arguments is the same as "cd ../"  command.
 2. As with the "up 2", run with number of argument to go up given level directory structure.
 
 ### Japanese
-1. "up"コマンドを単体で利用した場合、ディレクトリ階層を1階層上ります。
+1. "up"コマンドを単体で利用した場合、「cd ../」コマンドと同一です。
 2. "up 2"のように、引数に数値を与えて実行した場合、その階層分だけ上に移動する事ができます。
